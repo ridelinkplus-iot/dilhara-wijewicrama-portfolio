@@ -28,17 +28,24 @@ const WorkExperience: React.FC = () => {
             Bandaranaike International Airport Katunayake
           </h3>
 
-          <p className="text-gray-700 leading-relaxed mb-8 text-base">
+          <div className="text-gray-700 leading-relaxed mb-8 text-base">
             Trainee Assistant Mechanical Engineer 05 Months Working Experience
             (In following Sections)
-            <p></p>
-            1.Central Air Conditioning System and Building Management System.
-            <p></p>2.Baggage Conveyor System and Roller Shutter Doors.
-            <p></p>3.Elevators, Escalators <p></p>4.Generators,Power House and
-            Fabrication Workshop. <p></p>5.Water Treatment and Sewage Treatment
-            System, Incinerator and Fire Water System. <p></p>6.Internal and
-            External Plumbing System.
-          </p>
+            <br />
+            <br />
+            1. Central Air Conditioning System and Building Management System.
+            <br />
+            2. Baggage Conveyor System and Roller Shutter Doors.
+            <br />
+            3. Elevators, Escalators
+            <br />
+            4. Generators,Power House and Fabrication Workshop.
+            <br />
+            5. Water Treatment and Sewage Treatment System, Incinerator and Fire
+            Water System.
+            <br />
+            6. Internal and External Plumbing System.
+          </div>
 
           <a
             href="https://www.airport.lk/"
